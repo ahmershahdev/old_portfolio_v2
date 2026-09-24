@@ -1,6 +1,8 @@
 # Syed Ahmer Shah
 
-Hey, I'm Ahmer—a full-stack developer obsessed with clean code, performance, and building things that actually work. This is my latest portfolio site, and I maintain it actively because, let's be honest, a dead portfolio is worse than no portfolio.
+**this is my old portfolio**
+
+Hey, I'm Ahmer—a full-stack developer obsessed with clean code, performance, and building things that actually work. This is my old portfolio site, and I did not maintain this one now.
 
 ## What You'll Find Here
 
